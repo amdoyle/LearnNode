@@ -1,2 +1,2 @@
 # LearnNode
-Learning NodeJs
+Learning NodeJs through learnyounode exercises
